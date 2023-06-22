@@ -16,6 +16,6 @@ Chai: Chai is an assertion library that provides a set of assertion styles. Inst
 npm install chai
 
 To run the tests, execute the following command in your terminal:
-npx mocha test.js
+npx mocha apiTesting.js
 
 Mocha will execute the tests and display the results in your terminal.
